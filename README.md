@@ -26,7 +26,7 @@ Here are some of the technologies and languages I'm proficient in:
 - *Programming Languages:*
   - C
 
-- *CCSE:*
+- *CSCU:*
   - Passionate about Cyber Security and its advancement in the technology.
 
 ## Current Focus
