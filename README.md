@@ -45,7 +45,7 @@ My mail : hemang9705@gmail.com
 
 ## Connect with Me
 
-<a href="www.linkedin.com/in/hemang-baldha-b75a0b257" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
+<a href="https://www.linkedin.com/in/hemang-baldha-b75a0b257" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0077b5&color=white" alt="LinkedIn Badge" style="width: 150px; border-radius: 10px; text-decoration: none; font-family: 'Arial', sans-serif; font-size: 14px; font-weight: bold;">
 </a>
 
