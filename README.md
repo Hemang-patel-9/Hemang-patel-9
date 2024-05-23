@@ -40,7 +40,7 @@ My mail : hemang9705@gmail.com
 <a href="https://www.linkedin.com/in/hemang-baldha-b75a0b257" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="https://www.linkedin.com/in/hemang-baldha-b75a0b257" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
+<a href="https://www.instagram.com/hemang_patel__" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
     <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 <br/>
