@@ -24,7 +24,7 @@ Here are some of the technologies and languages I'm proficient in:
   <img src="https://skillicons.dev/icons?i=c,cpp"/>
 
 - *Other Technologies:*<br/><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,github,git,linux,powershell,figma,postman,wordpress"/>
+  <img src="https://skillicons.dev/icons?i=flutter,github,git,linux,powershell,figma,postman,wordpress,svg"/>
   
 - *Cyber Security:*
   - Passionate about Cyber Security, Networking and its advancement in the technology.
