@@ -15,7 +15,7 @@ Here are some of the technologies and languages I'm proficient in:
 
 
 - *Backend Development:*<br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,python,express,dart,php,laravel"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,python,express,dart,php,laravel,tensorflow"/>
 
 - *Server-side Languages:*<br/><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
@@ -24,10 +24,11 @@ Here are some of the technologies and languages I'm proficient in:
   <img src="https://skillicons.dev/icons?i=c,cpp"/>
 
 - *Other Technologies:*<br/><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,github,git,linux,powershell,figma,postman,wordpress,svg"/>
+  <img src="https://skillicons.dev/icons?i=flutter,github,git,linux,powershell,figma,postman,npm,wordpress,svg"/>
   
 - *Cyber Security:*
   - Passionate about Cyber Security, Networking and its advancement in the technology.
+  - <img src="https://skillicons.dev/icons?i=kali"/>
 
 ## Collaboration and Feedback
 
