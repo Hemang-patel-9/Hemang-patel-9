@@ -1,48 +1,58 @@
-# <p align="center">Hello👋, I'm Hemang Baldha</p> 
+# <p align="center">Hello 👋, I'm Hemang Baldha</p>
 
-Welcome to my GitHub profile! I'm passionate about creating stunning ideas, and I love exploring a wide range of technologies. Below, you'll find a bit about me, my skills, and the projects I'm working on.
+Welcome to my GitHub profile! I'm passionate about transforming innovative ideas into reality through code. I love exploring a wide range of technologies and crafting delightful user experiences. Below, you'll find more about me, my skills, and the projects I'm currently working on.
 
-## ⚡About Me
+## ⚡ About Me
 
-I am a dedicated web enthusiast with a strong foundation in web development and design. My goal is to craft delightful user experiences and bring creative ideas to life through code.
+I'm a dedicated web enthusiast with a strong foundation in web development and design. My mission is to build seamless and responsive applications that not only solve problems but also provide exceptional user experiences.
+
+## 🚀 What I Have Done
+- **Full Stack Development**: Expert in both front-end and back-end technologies, I develop dynamic web applications that are robust, scalable, and user-friendly.
+- **Artificial Intelligence & Machine Learning**: Delving into AI and ML, I create intelligent systems capable of making data-driven decisions and predictions.
+- **Cybersecurity & Networking**: Passionate about securing digital assets and optimizing network infrastructures, I stay up-to-date with the latest cybersecurity protocols and practices.
 
 ## 🛠 Skills
 
 Here are some of the technologies and languages I'm proficient in:
 
-- *Frontend Development:*<br/><br/>
+- **Frontend Development:**<br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwindcss,angular,bootstrap,svg"/>
 
-
-- *Backend Development:*<br/><br/>
+- **Backend Development:**<br/>
   <img src="https://skillicons.dev/icons?i=nodejs,java,python,express,dart,php,laravel,tensorflow"/>
 
-- *Server-side Languages:*<br/><br/>
+- **Database Management:**<br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
 
-- *Programming Languages:*<br/><br/>
+- **Programming Languages:**<br/>
   <img src="https://skillicons.dev/icons?i=c,cpp"/>
 
-- *Other Technologies:*<br/><br/>
+- **Other Technologies:**<br/>
   <img src="https://skillicons.dev/icons?i=flutter,github,git,linux,powershell,figma,postman,npm,wordpress,svg"/>
-  
-- *Cyber Security:*
-  - Passionate about Cyber Security, Networking and its advancement in the technology.
-  - <img src="https://skillicons.dev/icons?i=kali"/>
 
-## Collaboration and Feedback
+- **Cybersecurity:**<br/>
+  <img src="https://skillicons.dev/icons?i=kali,"/>
+## 💼 Achievements
 
-I'm open to collaboration and always eager to learn from others. If you find any of my projects interesting or have suggestions for improvement, feel free to reach out!
+- **Hackathon Winner**: I've been fortunate to win multiple hackathons where I developed innovative solutions that addressed real-world problems.
+- **Innovative Projects**: I have created numerous projects that blend creativity and technology, making an impact in various domains.
 
-My mail : hemang9705@gmail.com
+## 🤝 Collaboration and Feedback
+
+I'm always open to collaboration and eager to learn from the community. If any of my projects interest you or if you have suggestions for improvement, please don't hesitate to reach out.
+
+📧 **Email**: hemang9705@gmail.com
 
 ## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/hemang-baldha-b75a0b257" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/hemang-baldha-b75a0b257" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
-<a href="https://www.instagram.com/hemang_patel__" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
+<a href="https://www.instagram.com/hemang_patel__" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
 </a>
-<br/>
-Let's build the ideas together and change the world! 🚀✨
+<a href="https://x.com/hemang9705" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Instagram"/>
+</a>
+
+Let's build innovative solutions together and make a difference! 🚀✨
