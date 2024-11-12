@@ -54,5 +54,8 @@ I'm always open to collaboration and eager to learn from the community. If any o
 <a href="https://x.com/hemang9705" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Instagram"/>
 </a>
+<a href="[https://x.com/hemang9705](https://www.cloudskillsboost.google/public_profiles/a5f89d3d-d437-4306-bf24-909d9acc3ddd)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Skill Boost"/>
+</a>
 
 Let's build innovative solutions together and make a difference! 🚀✨
