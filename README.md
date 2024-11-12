@@ -48,7 +48,7 @@ I'm always open to collaboration and eager to learn from the community. If any o
 <a href="https://www.linkedin.com/in/hemang-baldha-b75a0b257" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
-<a href="[https://x.com/hemang9705](https://www.cloudskillsboost.google/public_profiles/a5f89d3d-d437-4306-bf24-909d9acc3ddd)" target="_blank">
+<a href="https://www.cloudskillsboost.google/public_profiles/a5f89d3d-d437-4306-bf24-909d9acc3ddd" target="_blank">
     <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Skill Boost"/>
 </a>
 <a href="https://www.instagram.com/hemang_patel__" target="_blank">
