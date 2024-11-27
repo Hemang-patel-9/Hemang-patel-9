@@ -1,4 +1,4 @@
-# <p align="center">Hello 👋, I'm Hemang Baldha</p>
+# <p align="center">Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Hemang Baldha</p>
 
 Welcome to my GitHub profile! I'm passionate about transforming innovative ideas into reality through code. I love exploring a wide range of technologies and crafting delightful user experiences. Below, you'll find more about me, my skills, and the projects I'm currently working on.
 
