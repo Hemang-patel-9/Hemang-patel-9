@@ -34,7 +34,8 @@ Here are some of the technologies and languages I'm proficient in:
   <img src="https://skillicons.dev/icons?i=kali,"/>
 ## 💼 Achievements
 
-- **Hackathon Winner**: I've been fortunate to win multiple hackathons where I developed innovative solutions that addressed real-world problems.
+- **First Hackathon Winner**: Awarded **First Prize** in **National Level Hackathon**for creating a fully functional **Student Learning Platform**.
+- **Second Hackathon Winner**: Awarded **First Prize** in for creating a fully functional **Fashion Ecommerce Platform using AI/ML**.
 - **Innovative Projects**: I have created numerous projects that blend creativity and technology, making an impact in various domains.
 
 ## 🤝 Collaboration and Feedback
